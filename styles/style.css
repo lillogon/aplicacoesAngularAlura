@@ -134,11 +134,15 @@ body {
     }
 
     .apresentacao_conteudo {
-    width: auto;
+        width: auto;
+    }
+
+    .apresentacao_links {
+        gap: 5px;
     }
 
     .foto_profissional {
     border-radius: 15px;
-    width: 46%;
+    width: 40%;
 }
 }
